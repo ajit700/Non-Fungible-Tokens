@@ -1,2 +1,1 @@
-What Is a Non-Fungible Token (NFT)?
-Non-fungible tokens (NFTs) are cryptographic assets on a blockchain with unique identification codes and metadata that distinguish them from each other. Unlike cryptocurrencies, they cannot be traded or exchanged at equivalency. This differs from fungible tokens like cryptocurrencies, which are identical to each other and, therefore, can serve as a medium for commercial transactions.NFTs are unique cryptographic tokens that exist on a blockchain and cannot be replicated.
+
